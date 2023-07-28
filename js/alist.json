@@ -8,7 +8,7 @@
     },
         {
         "name" : "WAN USE",
-        "server" : "https://pan.ecve.cn",
+        "server" : "http://lonelyice.dynv6.net:5678",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
